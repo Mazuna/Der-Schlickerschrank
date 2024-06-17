@@ -1,4 +1,4 @@
-user_word_eaten = ""
+user_word_eaten = str("")
 user_word = input("Enter your Word:\n")
 user_word = user_word.upper()
 # Prompt the user to enter a word
