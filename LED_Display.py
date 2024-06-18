@@ -84,5 +84,5 @@ for digit in user_input:
 for i in range(5):  # Each digit has 5 lines
     line = ""
     for digit in n_to_display:
-        line += digit[i] + " "  # Adjust spaces between digits
+        line += digit[i] + "  "  
     print(line)
