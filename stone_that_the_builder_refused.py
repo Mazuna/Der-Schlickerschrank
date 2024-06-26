@@ -1,8 +1,8 @@
 def builder(blocks):
-    current_step = 0
+    current_step = 1
     built_rows = 0
 
-    while blocks >= current_step + 1:
+    while blocks >= current_step:
         current_step += 1
         built_rows += 1
         blocks -= current_step
