@@ -1,6 +1,6 @@
 # Nicos Schlickerschrank
 
-Willkommen im Repository "Nicos Schlickerschrank"! Dieses Repository ist eine Sammlung von Übungen und Projekten, die ich im Rahmen meiner Umschulung zum Systemadministrator bei Zukunftsmotor durchgeführt habe.
+Willkommen in Nicos Schlickerschrank ! Dieses Repository ist eine Sammlung von Übungen und Projekten, die ich im Rahmen meiner Umschulung zum Systemadministrator bei Zukunftsmotor durchgeführt habe.
 
 ## Übersicht
 
