@@ -14,3 +14,4 @@ board[0][1] = KNIGHT
 board[0][6] = KNIGHT
 board[7][1] = KNIGHT
 board[7][6] = KNIGHT
+print(board)
